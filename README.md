@@ -79,7 +79,7 @@ Task 10
 
     Create a method called search_ticket that asks the user to input a row letter and a seat number and searches if someone      has bought that seat. If someone has bought the seat, it will print the Ticket and Person information, otherwise will        display ‘This seat is available’. Call this method when the user selects ‘6’ in the main menu.
 
-Task 12
+Task 11
 
     Add a method save in the class Ticket that saves the information of the Ticket (including the Person) in a file. The         name of the file should be the name of the row and the seat number (e.g., A2.txt for a ticket sold in row A seat 2).         Call this method every time a ticket is sold.
 
